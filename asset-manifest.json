@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/css/main.073c9b0a.css",
+    "main.js": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/js/main.c1854701.js",
+    "static/js/787.98f66cd6.chunk.js": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/js/787.98f66cd6.chunk.js",
+    "static/media/logo.svg": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MelnychenkoJenny/goit-react-hw-01-component.git/index.html",
+    "main.073c9b0a.css.map": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/css/main.073c9b0a.css.map",
+    "main.c1854701.js.map": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/js/main.c1854701.js.map",
+    "787.98f66cd6.chunk.js.map": "/MelnychenkoJenny/goit-react-hw-01-component.git/static/js/787.98f66cd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1854701.js"
+  ]
+}

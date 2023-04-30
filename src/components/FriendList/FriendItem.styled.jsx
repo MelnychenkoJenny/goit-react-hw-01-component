@@ -29,8 +29,8 @@ export const Status = styled.span`
   border-radius: 50%;
   background-color: ${({ status, theme: { colors } }) =>
     status ? colors.green : colors.red};
-    transition: scale 300ms cubic-bezier(0.4, 0, 0.2, 1);
-    ${FriendListItem}:hover & {
-      scale: 1.35;
-    }
+  transition: scale 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  ${FriendListItem}:hover & {
+    scale: 1.35;
+  }
 `;

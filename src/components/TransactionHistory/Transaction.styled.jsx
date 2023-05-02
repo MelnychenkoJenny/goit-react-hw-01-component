@@ -11,5 +11,7 @@ export const TransactionTCell = styled.th`
   font-size: 12px;
   font-weight: 400;
   padding: 10px 0;
-  border: 1px solid ${({ theme: { colors } }) => colors.lightGreyCard};
+  color: ${({ theme: { colors } }) => colors.black};
+  border: 1px solid ${({ theme: { colors } }) => colors.lightGreyCard}; 
+  
 `;
